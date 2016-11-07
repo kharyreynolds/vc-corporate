@@ -1,6 +1,6 @@
 <!-- Header
 		============================================= -->
-		<header id="header" class="transparent-header" data-sticky-class="not-dark">
+		<header id="header" class="static-sticky">
 
 			<div id="header-wrap">
 
@@ -9,11 +9,11 @@
 					<div id="primary-menu-trigger"><i class="icon-reorder"></i></div>
 
 					<!-- Logo
-					============================================= -->
-					<div id="logo">
-						<a href="index.html" class="standard-logo" data-dark-logo="<?php bloginfo('template_directory'); ?>/includes/images/logo-dark.png"><img src="<?php bloginfo('template_directory'); ?>/includes/images/logo.png" alt="Canvas Logo"></a>
-						<a href="index.html" class="retina-logo" data-dark-logo="<?php bloginfo('template_directory'); ?>/includes/images/logo-dark@2x.png"><img src="<?php bloginfo('template_directory'); ?>/includes/images/logo@2x.png" alt="Canvas Logo"></a>
-					</div><!-- #logo end -->
+                    ============================================= -->
+                    <div id="logo">
+                        <a href="index.html" class="standard-logo" data-dark-logo="<?php bloginfo('template_directory'); ?>/includes/images/logo-dark.png"><img src="<?php bloginfo('template_directory'); ?>/includes/images/logo.png" alt="Canvas Logo"></a>
+                        <a href="index.html" class="retina-logo" data-dark-logo="<?php bloginfo('template_directory'); ?>/includes/images/logo-dark@2x.png"><img src="<?php bloginfo('template_directory'); ?>/includes/images/logo@2x.png" alt="Canvas Logo"></a>
+                    </div><!-- #logo end -->
 
 					<!-- Primary Navigation
 					============================================= -->
@@ -602,7 +602,7 @@
 								</div>
 							</li>
 						</ul>
-						
+
 					</nav><!-- #primary-menu end -->
 
 				</div>

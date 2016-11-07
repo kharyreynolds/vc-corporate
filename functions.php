@@ -6,11 +6,7 @@
 
 //MENU REGISTRATIONS//
 function menu_register() {
-  // register_nav_menu('header-menu',__( 'Header Menu' ));
-  register_nav_menus( array(
-  'header-menu' => __( 'Header Menu' ),
-  'demo_property_mgmt' => 'Property Mgmt Nav Menu',
-  ));
+  register_nav_menu('header-menu',__( 'Header Menu' ));
 }
 
 add_action( 'init', 'menu_register' );
@@ -127,10 +123,6 @@ function wpt_register_js() {
     wp_register_script('jquery.bootstrap.min', '//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js', array( 'jquery' ), '3.3.5', true );
     wp_enqueue_script('jquery.bootstrap.min');
 
-    //Classie JS Script - Scrolling Nav Bar
-    wp_register_script('classie-js', get_bloginfo( 'template_directory' ) . '/includes/js/classie.js', array( ), '1.0.0', true );
-    wp_enqueue_script('classie-js');
-
     // Slider Revolutions 5.x Core JS
     wp_register_script('themepunch.tools', get_bloginfo( 'template_directory' ) . '/includes/rs-plugin/js/jquery.themepunch.tools.min.js' );
     wp_register_script('themepunch.revolution', get_bloginfo( 'template_directory' ) . '/includes/rs-plugin/js/jquery.themepunch.revolution.min.js');
@@ -148,8 +140,8 @@ function wpt_register_js() {
 
   
     //Custom Theme JS Script
-    wp_register_script('vcplugins.js', get_bloginfo( 'template_directory' ) . '/includes/js/vcplugins.js' );
-    wp_register_script('theme-scripts', get_bloginfo( 'template_directory' ) . '/includes/js/vcfunctions.js', array( 'jquery', 'vcplugins.js'), '1.0.0', true );
+    wp_register_script('vc-plugins.js', get_bloginfo( 'template_directory' ) . '/includes/js/vc-plugins.js' );
+    wp_register_script('theme-scripts', get_bloginfo( 'template_directory' ) . '/includes/js/vc-functions.js', array( 'jquery', 'vc-plugins.js'), '1.0.0', true );
     wp_enqueue_script('theme-scripts');
 }
 
@@ -183,10 +175,10 @@ function wpt_enqueue_custom_admin_options_css() {
 // This example assumes your opt_name is set to redux_demo, replace with your opt_name value
 add_action( 'redux/page/vc_base/enqueue', 'wpt_enqueue_custom_admin_options_css' );
 
-function wpt_print_custom_styles(){
-  include( dirname( __FILE__ ) . '/includes/custom-styles.php' );
-}
-add_action( 'wp_head', 'wpt_print_custom_styles', 100 );
+// function wpt_print_custom_styles(){
+//   include( dirname( __FILE__ ) . '/includes/custom-styles.php' );
+// }
+// add_action( 'wp_head', 'wpt_print_custom_styles', 100 );
 
 /* --------------------------------------------------------------------------
  * CUSTOM THEME FUNCTIONS

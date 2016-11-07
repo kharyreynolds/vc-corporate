@@ -1,6 +1,6 @@
 <!-- Header
 		============================================= -->
-		<header id="header" class="transparent-header" data-sticky-class="not-dark">
+		<header id="header" class="dark">
 
 			<div id="header-wrap">
 
@@ -602,7 +602,7 @@
 								</div>
 							</li>
 						</ul>
-						
+
 					</nav><!-- #primary-menu end -->
 
 				</div>
