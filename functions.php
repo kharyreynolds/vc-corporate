@@ -184,10 +184,10 @@ add_action( 'redux/page/vc_base/enqueue', 'wpt_enqueue_custom_admin_options_css'
  * CUSTOM THEME FUNCTIONS
  ---------------------------------------------------------------------------*/
 
-function vc_render_theme_header( $type = 'transparent', $extra_params = array() ) {
+function vc_render_theme_header( $type = 'default-header', $extra_params = array() ) {
   $template = locate_template( array( 'template-parts/headers/' . $type . '.php' ) );
   if ( ! $template ) {
-    $template = locate_template( array( 'template-parts/headers/transparent.php' ) );
+    $template = locate_template( array( 'template-parts/headers/default-header.php' ) );
     if ( ! $template ) {
       return;
     }
@@ -199,6 +199,19 @@ function vc_render_theme_header( $type = 'transparent', $extra_params = array() 
 
   include $template;
 }
+
+function vc_render_theme_slider( $type = 'default-slider', $extra_params = array() ) {
+  $template = locate_template( array( 'template-parts/sliders/' . $type . '.php' ) );
+  if ( ! $template ) {
+    $template = locate_template( array( 'template-parts/sliders/default-slider.php' ) );
+    if ( ! $template ) {
+      return;
+    }
+  }
+
+  include $template;
+}
+
 
 function vc_setup_theme(){
   add_theme_support( 'post-thumbnails', array( 'post' ) );

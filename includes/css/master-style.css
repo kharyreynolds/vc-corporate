@@ -555,6 +555,115 @@ span.middot {
 
 .magnific-max-width .mfp-content { max-width: 800px; }
 
+/* ----------------------------------------------------------------
+ Overlays
+-----------------------------------------------------------------*/
+
+.parallax-overlay {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	-webkit-backface-visibility: hidden;
+}
+
+.grid-overlay {
+	background: transparent url('../images/grid.png') repeat;
+}
+
+div.parallax-overlay {
+	background-color: rgba(0, 81, 177, 0.6);
+}
+
+.black-overlay {
+  	position: absolute;
+  	width: 100%;
+  	height: 100%;
+  	top: 0;
+  	left: 0;
+    -webkit-backface-visibility: hidden;
+}
+
+div.black-overlay {
+	background-color: rgba(0, 0, 0, 0.6);
+}
+
+.featured-overlay {
+	position: absolute;
+	width: 76%;
+	height: 68%;
+	top: 24%;
+	left: 12%;
+	border-radius: 25px;
+	-webkit-backface-visibility: hidden;
+}
+
+div.featured-overlay {
+	background-color: rgba(0, 0, 0, 0.6);
+}
+
+/* ----------------------------------------------------------------
+ Revolution Slider
+-----------------------------------------------------------------*/
+
+.revo-slider-prehead {
+	font-size: 16px;
+	font-weight: 400;
+	letter-spacing: 3px;
+	font-family: 'Raleway', sans-serif;
+	text-align: center;
+	border-bottom: 2px solid #FFF;
+	padding-bottom: 5px;
+}
+
+.revo-slider-headline {
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 55px;
+  letter-spacing: -1px;
+  font-family: 'Raleway', sans-serif;
+  padding: 15px 20px;
+  color: white;
+  text-align: center;
+}
+
+.revo-slider-subhead {
+  font-size: 20px;
+  font-family: 'Lato', sans-serif;
+  width: 650px;
+  text-align: center;
+  line-height: 1.5;
+  color: white;
+  text-align: center;
+}
+
+.tp-video-play-button { display: none !important; }
+
+.tp-caption { white-space: nowrap; }
+
+.tp-caption.Fashion-SmallText, .Fashion-SmallText,
+.tp-caption.Fashion-TextBlock, .Fashion-TextBlock {
+	font-family: 'Lato';
+	color: #FFF;
+}
+
+.tp-caption.Fashion-BigDisplay, .Fashion-BigDisplay {
+	font-family: 'Cookie';
+	letter-spacing: 1px;
+	font-weight: 700;
+	color: #FFF;
+	text-transform: capitalize;
+}
+
+.restaurant-reviews .flex-control-nav {
+	top: auto;
+	bottom: 25px;
+}
+
+.tp-banner .button { height: auto !important; }
+
+
 
 /* ----------------------------------------------------------------
 	Sections
