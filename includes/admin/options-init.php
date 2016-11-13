@@ -147,12 +147,14 @@
                 'type'     => 'media',
                 'title'    => __( 'Favicon', 'redux-framework-demo' ),
                 'subtitle' => __( 'Please upload your favicon here.', 'redux-framework-demo' ),
+                'default'  => array( 'url'=> "<?php bloginfo('template_directory'); ?>/includes/images/vc-icon.png" ),
             ),
             array(
                 'id'       => 'logo',
                 'type'     => 'media',
                 'title'    => __( 'Main Logo', 'redux-framework-demo' ),
                 'subtitle' => __( 'Upload the main logo for your website.', 'redux-framework-demo' ),
+                'default'  => array( 'url'=> "<?php bloginfo('template_directory'); ?>/includes/images/v3-logo.png" ),
             ),
             array(
                 'id'       => 'header_dimensions',

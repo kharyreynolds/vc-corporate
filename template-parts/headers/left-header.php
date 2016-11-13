@@ -1,4 +1,23 @@
-<!-- Header
+<?php
+$default_menu_args = array(
+    
+                        'menu'              => 'primary',
+                        'container'         => 'nav',
+                        'container_id'      => 'primary-menu',
+                        'depth'             => 3,
+                        'fallback_cb'       => '',
+                    );
+
+$menu_args = wp_parse_args( $menu_args, $default_menu_args );
+
+$default_params = array(
+    'class' => 'dark',
+);
+$params = wp_parse_args( $extra_params, $default_params );
+
+ ?>
+
+ <!-- Header
 		============================================= -->
 		<header id="header" class="no-sticky">
 
@@ -14,6 +33,8 @@
                         <a href="index.html" class="standard-logo" data-dark-logo="<?php bloginfo('template_directory'); ?>/includes/images/logo-dark.png"><img src="<?php bloginfo('template_directory'); ?>/includes/images/logo.png" alt="Canvas Logo"></a>
                         <a href="index.html" class="retina-logo" data-dark-logo="<?php bloginfo('template_directory'); ?>/includes/images/logo-dark@2x.png"><img src="<?php bloginfo('template_directory'); ?>/includes/images/logo@2x.png" alt="Canvas Logo"></a>
                     </div><!-- #logo end -->
+
+					<?php wp_nav_menu( $menu_args ); ?>
 
 					<!-- Primary Navigation
 					============================================= -->
