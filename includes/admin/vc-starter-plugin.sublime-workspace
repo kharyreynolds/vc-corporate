@@ -1,0 +1,750 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"audi",
+				"audioecommerce_add_carousel_open_tags"
+			],
+			[
+				"woocomm",
+				"woocommerce_before_shop_loop_item"
+			],
+			[
+				"aud",
+				"audioecommerce_add_carousel_classes"
+			],
+			[
+				"audio",
+				"audioecommerce_add_carousel_open_tags"
+			],
+			[
+				"font",
+				"font-awesome"
+			],
+			[
+				"bott",
+				"bottommargin-sm"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"wp_strip",
+				"wp_stripe_ids"
+			],
+			[
+				"la",
+				"last_id"
+			],
+			[
+				"image",
+				"image_urls"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"wp",
+				"wp_stripe_products"
+			],
+			[
+				"str",
+				"stripe_products"
+			],
+			[
+				"w",
+				"wp_stripe_products"
+			],
+			[
+				"product",
+				"product_objects"
+			],
+			[
+				"e",
+				"echo\techo \"…\""
+			],
+			[
+				"strip",
+				"stripe_product"
+			],
+			[
+				"stripe",
+				"stripe_id"
+			],
+			[
+				"image_",
+				"image_ids"
+			],
+			[
+				"vc_prod",
+				"vc_product_weight"
+			],
+			[
+				"vc_pro",
+				"vc_product_weight"
+			],
+			[
+				"vc-pr",
+				"vc-product-tags"
+			],
+			[
+				"product_d",
+				"product_details"
+			],
+			[
+				"wp_stripe",
+				"wp_stripe_sync_products"
+			],
+			[
+				"wp_stri",
+				"wp_stripe_sync_products"
+			],
+			[
+				"wp_stripe_in",
+				"wp_stripe_integration_activation"
+			],
+			[
+				"_vc_",
+				"_vc_product_stripe_id"
+			],
+			[
+				"pro",
+				"products_query"
+			],
+			[
+				"produc",
+				"products_query"
+			],
+			[
+				"vc-pro",
+				"vc-products"
+			],
+			[
+				"produ",
+				"product_options"
+			],
+			[
+				"vc_register",
+				"vc_register_product_tags_taxonomy"
+			],
+			[
+				"vc_list_pro",
+				"vc_list_products_ajax"
+			],
+			[
+				"wp_en",
+				"wp_enqueue_style"
+			],
+			[
+				"more",
+				"more_products"
+			],
+			[
+				"product_D",
+				"product_details"
+			],
+			[
+				"prod",
+				"product_options"
+			],
+			[
+				"has",
+				"hasClass"
+			],
+			[
+				"test",
+				"test_mode"
+			],
+			[
+				"to",
+				"toJSON"
+			],
+			[
+				"me",
+				"mediaUploader"
+			],
+			[
+				"plugin",
+				"plugin-section"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"Margin",
+				"margin-left"
+			],
+			[
+				"awes",
+				"awesome_admin_theme_style"
+			],
+			[
+				"text",
+				"textdomain"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"header",
+				"header-menu"
+			],
+			[
+				"ca",
+				"categories"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"classie",
+				"classie-js"
+			],
+			[
+				"menu",
+				"menu_slug"
+			],
+			[
+				"prop",
+				"property_images"
+			],
+			[
+				"property",
+				"property_images"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"new",
+				"new_post"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"firs",
+				"first_hash"
+			],
+			[
+				"addre",
+				"address_parts"
+			],
+			[
+				"print",
+				"print_r"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 120.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/vc-starter-v1.0/wp-content/plugins/vc-starter-plugin"
+	],
+	"file_history":
+	[
+		"/Users/kharyreynolds/Downloads/bashscript.sh",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/vc-starter-v1.0/wp-content/themes/vc-starter-theme/template-parts/headers/transparent-header.php",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/vc-starter-v1.0/wp-content/themes/vc-starter-theme/template-parts/headers/sticky-header.php",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/vc-starter-v1.0/wp-content/themes/vc-starter-theme/template-parts/headers/dark-header.php",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/vc-starter-v1.0/wp-content/themes/vc-starter-theme/template-parts/headers/left-header.php",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/vc-starter-v1.0/wp-content/themes/vc-starter-theme/template-parts/headers/default-header.php",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/vc-starter-v1.0/wp-content/themes/vc-starter-theme/template-parts/headers/static-sticky.php",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/vc-starter-v1.0/wp-content/themes/vc-starter-theme/includes/admin/options-init.php",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/vc-starter-v1.0/wp-content/themes/vc-starter-theme/functions.php",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/vc-starter-v1.0/wp-content/themes/vc-starter-theme/starter-home.php",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/themes/virtual-cubed-v3.0/template-parts/headers/bootstrap-header.php",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/vc-starter-v1.0/wp-content/themes/vc-starter-theme/includes/css/master-style.css",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/vc-starter-v1.0/wp-content/themes/vc-starter-theme/template-parts/sliders/video-slider.php",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/centralvalleylending/wp-content/themes/centralvalleylending/style.css",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/vc-starter-v1.0/wp-content/themes/vc-starter-theme/starter-home-left.php",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/00_Resources/Canvas_4/Package-HTML/HTML/header-light.html",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/00_Resources/Canvas_4/Package-HTML/HTML/index-corporate.html",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/vc-starter-v1.0/wp-content/themes/vc-starter-theme/template-parts/headers/transparent-default.php",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/vc-starter-v1.0/wp-content/themes/vc-starter-theme/footer.php",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/vc-starter-v1.0/wp-content/themes/vc-starter-theme/includes/js/vc-functions.js",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/vc-starter-v1.0/wp-config.php",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/audioecommerce/wp-content/debug.log",
+		"/Users/kharyreynolds/Desktop/indexeddb/index.html",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/audioecommerce/wp-content/themes/audioecommerce/style.css",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/vc-dev/wp-content/themes/twentytwelve-child/woocommerce/archive-product.php",
+		"/Users/kharyreynolds/VirtualCubed/GitHub/kharyreynolds.github.io/README.md",
+		"/Users/kharyreynolds/VirtualCubed/GitHub/kharyreynolds.github.io/css/custom-style.css",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/themes/virtual-cubed-v3.0/vc-about.php",
+		"/Users/kharyreynolds/VirtualCubed/GitHub/kharyreynolds.github.io/style.css",
+		"/Users/kharyreynolds/VirtualCubed/GitHub/kharyreynolds.github.io/css/resume-style.css",
+		"/Users/kharyreynolds/VirtualCubed/GitHub/kharyreynolds.github.io/index-devresume.html",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/themes/virtual-cubed-v3.0/vc-home.php",
+		"/Users/kharyreynolds/VirtualCubed/GitHub/resume source/Flato-html/Template-2/index.html",
+		"/Users/kharyreynolds/VirtualCubed/GitHub/kharyreynolds.github.io/other/css/master-style.css",
+		"/Users/kharyreynolds/VirtualCubed/GitHub/kharyreynolds.github.io/other/css/base.css",
+		"/Users/kharyreynolds/VirtualCubed/GitHub/kharyreynolds.github.io/other/css/custom-style.css",
+		"/Users/kharyreynolds/VirtualCubed/GitHub/kharyreynolds.github.io/index-test.html",
+		"/Users/kharyreynolds/VirtualCubed/GitHub/kharyreynolds.github.io/other/index.html",
+		"/Users/kharyreynolds/VirtualCubed/GitHub/kharyreynolds.github.io/index.html",
+		"/Users/kharyreynolds/VirtualCubed/GitHub/kharyreynolds.github.io/js/vc-functions.js",
+		"/Users/kharyreynolds/VirtualCubed/GitHub/kharyreynolds.github.io/css/base.css",
+		"/Users/kharyreynolds/VirtualCubed/GitHub/kharyreynolds.github.io/css/style.css",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/00_Resources/Canvas_4/Package-HTML/HTML/pie-skills.html",
+		"/Users/kharyreynolds/VirtualCubed/GitHub/kharyreynolds.github.io/css/slideshow.css",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/00_Resources/Canvas_4/Package-HTML/HTML/index-fullscreen-image.html",
+		"/Users/kharyreynolds/VirtualCubed/GitHub/kharyreynolds.github.io/js/jquery.min.js",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/themes/virtual-cubed-v3.0/includes/css/master-style.css",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/00_Resources/Canvas_4/Package-HTML/HTML/index-onepage.html",
+		"/Users/kharyreynolds/VirtualCubed/GitHub/kharyreynolds.github.io/includes/css/custom-style.css",
+		"/Users/kharyreynolds/VirtualCubed/resume/kharyreynolds.github.io/css/custom-style.css",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/themes/virtual-cubed-v3.0/includes/css/custom-style.css",
+		"/Users/kharyreynolds/VirtualCubed/resume/kharyreynolds.github.io/css/master-style.css",
+		"/Users/kharyreynolds/VirtualCubed/resume/kharyreynolds.github.io/index-onepage.html",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/themes/virtual-cubed-v3.0/vc-blog.php",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/themes/virtual-cubed-v3.0/footer.php",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/plugins/v3-proposals/v3-proposals.php",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/plugins/v3-proposals/includes/proposals.php",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/plugins/v3-proposals/includes/templates/vc-proposals.php",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/plugins/v3-proposals/includes/products.php",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/plugins/v3-proposals/includes/views.php",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/themes/virtual-cubed-v3.0/functions.php",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/plugins/v3-proposals/includes/contacts.php",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/plugins/v3-proposals/includes/settings.php",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/themes/virtual-cubed-v3.0/single-vc-proposals.php",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/plugins/v3-proposals/includes/single-vc-proposals.php",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/plugins/v3-proposals/includes/scripts.php",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/plugins/v3-proposals/includes/customers.php",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/debug.log",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/plugins/wordpress-stripe-integration/wordpress-stripe-integration.php",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/themes/virtual-cubed-v3.0/includes/css/portfolio.css",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/00_Resources/Canvas_4/Package-HTML/HTML/contact-2.html",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/themes/virtual-cubed-v3.0/template-parts/headers/apartment-header.php",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/themes/virtual-cubed-v3.0/vc-portfolio-propertymgmt.php",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/00_Resources/Canvas_4/Package-HTML/HTML/landing.html",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/00_Resources/Canvas_4/Package-HTML/HTML/faqs.html",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/themes/virtual-cubed-v3.0/style.css",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/themes/virtual-cubed-v3.0/includes/css/proposal.css",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/themes/virtual-cubed-v3.0/footer-proposal.php",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/plugins/wordpress-stripe-integration/includes/views.php",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/plugins/wordpress-stripe-integration/includes/products.php",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/00_Resources/Canvas_4/Package-HTML/HTML/services-2.html",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/00_Resources/Canvas_4/Package-HTML/HTML/one-page/index.html",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/uk-real-estate/wp-content/themes/uk-real-estate-theme/single-properties.php",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/themes/virtual-cubed-v3.0/footer-aptmgmt.php",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/themes/virtual-cubed-v3.0/new-functions.php",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/themes/virtual-cubed-v3.0/vc-portfolio-apartment.php",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/themes/virtual-cubed-v3.0/header.php",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/themes/virtual-cubed-v3.0/includes/css/real-estate.css",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/themes/virtual-cubed-v3.0/includes/portfolio/apt-mgmt/images/real-estate-logo.jpg",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/themes/virtual-cubed-v3.0/includes/portfolio/apt-mgmt/images/220388-apartment.jpg",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/themes/virtual-cubed-v3.0/includes/js/sliders.js",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/themes/virtual-cubed-v3.0/vc-portfolio-property-listing.php",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/themes/virtual-cubed-v3.0/template-parts/headers/default-header.php",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/themes/virtual-cubed-v3.0/template-parts/headers/transparent-header.php",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/themes/virtual-cubed-v3.0/vc-portfolio.php",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/00_Resources/Canvas_3/HTML/portfolio.html",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/themes/virtual-cubed-v3.0/includes/images/parallax/web-dev-banner.png",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/themes/virtual-cubed-v3.0/vc-contact.php",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/00_Resources/Canvas_3/HTML/contact-2.html",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/themes/virtual-cubed-v3.0/vc-demo-spa.php",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/themes/virtual-cubed-v3.0/vc-portfolio-spa.php",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/themes/virtual-cubed-v3.0/includes/portfolio/css/spa.css",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/themes/virtual-cubed-v3.0/vc-services.php",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/themes/virtual-cubed-v3.0/includes/css/master-style-v1.css",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/themes/virtual-cubed-v3.0/includes/portfolio/css/custom-portfolio-style.css",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/themes/virtual-cubed-v3.0/includes/portfolio/css/portfolio-style.css",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/themes/virtual-cubed-v3.0/includes/portfolio/spa/spa.css",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/00_Resources/Canvas_4/Package-HTML/HTML/style.css",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/themes/virtual-cubed-v3.0/includes/css/nav",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/00_Resources/Canvas_4/Package-HTML/HTML/demo-spa.html",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/themes/virtual-cubed-v3.0/template-parts/headers/spa-header.php",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/themes/virtual-cubed-v3.0/template-parts/headers/transparent.php",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/00_Resources/Canvas_3/HTML/promo-boxes.html",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/themes/virtual-cubed-v3.0/home.php",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/00_Resources/Canvas_3/HTML/header-side-left.html",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/themes/virtual-cubed-v3.0/includes/custom-styles.php",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/00_Resources/Canvas_3/HTML/about.html",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/themes/virtual-cubed-v3.0/includes/js/vcplugins.js",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/themes/virtual-cubed-v3.0/includes/js/plugins.js",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/themes/virtual-cubed-v3.0/includes/js/functions.js",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/themes/virtual-cubed-v3.0/rs-slider-sample.php",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/00_Resources/Canvas_3/HTML/page-title-parallax.html",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/00_Resources/Canvas_3/HTML/footer-2.html",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/themes/virtual-cubed-v3.0/includes/css/dark.css",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/themes/virtual-cubed-v3.0/includes/css/style-old.css",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/themes/virtual-cubed-v3.0/includes/images/v3-logo-web-header-90.png",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/00_Resources/Canvas_3/HTML/footer-5.html",
+		"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/themes/virtual-cubed-v3.0/includes/master-style.css"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/themes/virtual-cubed-v3.0/includes/rs-plugin",
+			"/Users/kharyreynolds/VirtualCubed/Wordpress/virtual-cubed-v3.0/wp-content/themes/virtual-cubed-v3.0/includes/rs-plugin/css",
+			"/Users/kharyreynolds/VirtualCubed/Wordpress/#00 - Resources/Canvas Package-HTML/HTML,*.js",
+			"/Users/kharyreynolds/VirtualCubed/Wordpress/#00 - Resources/Canvas Package-HTML/HTML",
+			"/Users/kharyreynolds/VirtualCubed/Wordpress/v3-theme-v2.0/wp-content/themes/v3-theme-v2.0",
+			"/Users/kharyreynolds/Desktop/Canvas Package-HTML/HTML",
+			"/Users/kharyreynolds/Desktop/Canvas Package-HTML",
+			"/Users/kharyreynolds/Desktop/Canvas Package-HTML/HTML",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"featured",
+			"slider",
+			"pattern2.png",
+			"\"images/",
+			"1.jpg",
+			"\"images/\n",
+			"\"]\n",
+			"html",
+			"\"assets/",
+			"exCon",
+			"work",
+			"workYear",
+			"rightArea",
+			"p{\n\tfont-family: 'Open Sans', sans-serif;\n\tfont-size:14px;\n\tline-height:21px;\n\tfont-weight:400;\n\tpadding-bottom:22px;\n\tmargin:0px;\n}",
+			"#header",
+			"phone",
+			"heading",
+			"#1ABC9C",
+			"html5",
+			">\n",
+			"skills",
+			"content-wrap",
+			"container",
+			"heading-block",
+			"banner",
+			"#262b37",
+			"promo-full",
+			"feature",
+			"map",
+			"customer",
+			"nonce",
+			"STRIPE_",
+			"iphon",
+			"page-section",
+			"\"images/landing",
+			"\"images/",
+			"\"images/icons/",
+			"icons/",
+			"\"images/team",
+			"list",
+			"audien",
+			"}\n",
+			"clients",
+			"images/",
+			"Product",
+			"/img",
+			"img",
+			"book",
+			"new york",
+			"icons",
+			"icon",
+			"a",
+			"images/",
+			"4 colum",
+			"border",
+			"images/beds_icon.png",
+			"images/bathrooms_icon.png",
+			"header",
+			"transparent-header",
+			".dark",
+			"header",
+			"full-header",
+			"#1ABC9C",
+			"img src",
+			"\"include/",
+			"\"images/",
+			"portfolio",
+			"\"images/",
+			"prel",
+			"image/",
+			"heading-block",
+			"#page-title",
+			"#page-title.",
+			"content-wrap",
+			"button",
+			"body",
+			"heading-block",
+			"#primary",
+			"#header-wrap",
+			"one-page-menu",
+			"header",
+			"primary menu",
+			"header",
+			"jpg",
+			"transparent-header.dark",
+			"\"images/",
+			"primary menu",
+			"videos/1.jpg",
+			"demos/",
+			"1.jpg",
+			"demos/",
+			"page-title",
+			">\n",
+			"before-heading color",
+			"divider",
+			"img",
+			"page-titl",
+			"flexS",
+			"images/",
+			"slider",
+			">\n",
+			"tp-banner-container",
+			"revoslider-wrap",
+			"ital",
+			"dark-overlay",
+			"noborder",
+			"border",
+			"preloa",
+			"preloader",
+			"footer",
+			"div",
+			".mp4",
+			".allpadding",
+			".toppadding",
+			".padding",
+			".promo.parallax {padding: 80px 0 !important;}",
+			"html5",
+			"responsive",
+			"header-block",
+			"icon-user",
+			"user",
+			".margin",
+			"margin-bottom",
+			"parall",
+			"parallax",
+			"overlay",
+			"heading-block",
+			"nomargin"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"<?php bloginfo('template_directory'); ?>/includes/images/",
+			"\"<?php bloginfo('template_directory'); ?>/includes/",
+			"snippet",
+			"year",
+			"rightarea",
+			"#0051b1",
+			"v3PROPOSALS_",
+			"\"<?php bloginfo('template_directory'); ?>/includes/images/",
+			"\"<?php bloginfo('template_directory'); ?>/includes/images/icons/",
+			"\"<?php bloginfo('template_directory'); ?>/includes/images/team",
+			"<?php bloginfo('template_directory'); ?>/includes/proposals/images/",
+			"Proposal",
+			"<?php bloginfo('template_directory'); ?>/includes/portfolio/real-estate/images/",
+			"<?php bloginfo('template_directory'); ?>/includes/portfolio/real-estate/images/icons/bed.png",
+			"http://dreamvilla.fortune-creations.com/dreamvilla-multiple/images/bathrooms_icon.png",
+			"#0051b1",
+			"\"<?php bloginfo('template_directory'); ?>/includes/",
+			"\"<?php bloginfo('template_directory'); ?>/includes/includes/",
+			"\"<?php bloginfo('template_directory'); ?>/includes/images/",
+			"videos/1.png",
+			"<?php bloginfo('template_directory'); ?>/includes/portfolio/",
+			"images",
+			"<?php bloginfo('template_directory'); ?>/includes/images/",
+			"<?php bloginfo('template_directory'); ?>/includes/images/\n",
+			"$product_update\n",
+			"\n",
+			"stripe_subscriptions",
+			"<a href=\"#\" class=\"delete-product-image\">Remove Image</a>",
+			"WPMEDIA",
+			"render_vc_plugin_template",
+			"textdomain",
+			"June 14",
+			"http://www.hiphopboycott.com/",
+			"Rosenberg",
+			"<?php echo site_url('/exhibit-a-public-enemy-1-the-clown-ass-nigga-named-jay-z/'); ?>",
+			"<?php bloginfo( 'template_directory' ); ?>/includes/images/",
+			"<?php bloginfo( 'template_directory' ); ?>/",
+			"main-content",
+			"/",
+			"<?php bloginfo('template_directory'); ?>/includes/",
+			"<?php bloginfo('template_directory'); ?>/includes",
+			"vc_base",
+			"<?php bloginfo('template_directory'); ?>/",
+			"<?php bloginfo('template_directory'); ?>/static/",
+			"postal_code",
+			"region",
+			"<?php echo site_url( '/we-have-added-new-features-to-dreamvilla/' ); ?>",
+			"<h3><a href=\"<?php site_url( '/we-have-added-new-features-to-dreamvilla/' ); ?>\">",
+			"<?php site_url( '/we-have-added-new-features-to-dreamvilla/' ); ?>",
+			"<?php site_url( '/we-have-added-new-features-to-dreamvilla/' );",
+			"http://dreamvilla.fortune-creations.com/dreamvilla-multiple/images/blog_thumb_3.jpg",
+			"20px",
+			"'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "vc-starter-plugin.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"v3-theme-v2.0/functions.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 288.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
