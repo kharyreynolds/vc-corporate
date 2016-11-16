@@ -11,10 +11,6 @@ function menu_register() {
 
 add_action( 'init', 'menu_register' );
 
-
-// Register custom navigation walker
-require_once('includes/wp_bootstrap_navwalker.php');
-
 //SIDEBAR REGISTRATIONS//
 function sidebar_register() {
 
