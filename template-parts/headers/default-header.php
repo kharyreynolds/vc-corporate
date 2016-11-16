@@ -4,6 +4,7 @@ $default_menu_args = array(
                         'menu'              => 'primary',
                         'container'         => 'nav',
                         'container_id'      => 'primary-menu',
+                        'container_class'   => 'nav-custom',
                         'depth'             => 3,
                         'fallback_cb'       => '',
                     );
@@ -19,25 +20,20 @@ $params = wp_parse_args( $extra_params, $default_params );
 
  <!-- Header
         ============================================= -->
-        <header id="header">
+<header id="header">
+    <div id="header-wrap">
+        <div class="container clearfix">
+            <div id="primary-menu-trigger"><i class="icon-reorder"></i></div>
 
-            <div id="header-wrap">
+                <!-- Logo
+                ============================================= -->
+                <div id="logo">
+                    <a href="index.html" class="standard-logo" data-dark-logo="<?php bloginfo('template_directory'); ?>/includes/images/logo-dark.png"><img src="<?php $logo = _gop('logo'); echo $logo['url'];  ?>" /></a>
+                    <a href="index.html" class="retina-logo" data-dark-logo="<?php bloginfo('template_directory'); ?>/includes/images/logo-dark@2x.png"><img src="<?php bloginfo('template_directory'); ?>/includes/images/logo@2x.png" alt="Canvas Logo"></a>
+                </div><!-- #logo end -->
 
-                <div class="container clearfix">
+                <?php wp_nav_menu( $menu_args ); ?>
 
-                    <div id="primary-menu-trigger"><i class="icon-reorder"></i></div>
-
-                    <!-- Logo
-                    ============================================= -->
-                    <div id="logo">
-                        <a href="index.html" class="standard-logo" data-dark-logo="<?php bloginfo('template_directory'); ?>/includes/images/logo-dark.png"><img src="<?php $logo = _gop('logo'); echo $logo['url'];  ?>" /></a>
-                        <a href="index.html" class="retina-logo" data-dark-logo="<?php bloginfo('template_directory'); ?>/includes/images/logo-dark@2x.png"><img src="<?php bloginfo('template_directory'); ?>/includes/images/logo@2x.png" alt="Canvas Logo"></a>
-                    </div><!-- #logo end -->
-
-                    <?php wp_nav_menu( $menu_args ); ?>
-
-                </div>
-
-            </div>
-
-        </header><!-- #header end -->
+        </div>
+    </div>
+</header><!-- #header end -->

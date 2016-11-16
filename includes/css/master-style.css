@@ -1073,7 +1073,6 @@ html[xmlns] .slider-wrap {display: block;}
 #header {
 	position: relative;
 	background-color: #FFF;
-	border-bottom: 1px solid #F5F5F5;
 }
 
 #header .container { position: relative; }
