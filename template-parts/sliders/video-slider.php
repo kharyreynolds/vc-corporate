@@ -29,7 +29,7 @@
 					<!-- LAYER NR. 2 -->
 					<div class="revo-slider-prehead tp-caption customin ltl tp-resizeme uppercase bottommargin-sm"
 					data-x="center"
-					data-y="170"
+					data-y="40"
 					data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
 					data-speed="800"
 					data-start="1000"
@@ -43,7 +43,7 @@
 
 					<div class="revo-slider-headline tp-caption customin ltl tp-resizeme nopadding noborder"
 					data-x="center"
-					data-y="center"
+					data-y="100"
 					data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
 					data-speed="800"
 					data-start="1200"
@@ -57,7 +57,7 @@
 
 					<div class="revo-slider-subhead tp-caption customin ltl tp-resizeme"
 					data-x="center"
-					data-y="400"
+					data-y="290"
 					data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
 					data-speed="800"
 					data-start="1400"
@@ -71,7 +71,7 @@
 
 					<div class="tp-caption customin ltl tp-resizeme"
 					data-x="center"
-					data-y="490"
+					data-y="390"
 					data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
 					data-speed="800"
 					data-start="1550"

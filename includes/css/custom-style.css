@@ -5,8 +5,67 @@
   height: 90px;
 }
 
+#primary-menu ul {
+    padding: 0px;
+    margin-top: 11px;
+}
 
+#primary-menu ul li {
+    display: inline-block;
+    list-style: none;
+    font-size: 13px;
+}
 
+#primary-menu ul li > a {
+    color: #333333;
+    line-height: 64px;
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Oswald', Arial;
+    text-transform: uppercase;
+    letter-spacing: 0px;
+    padding: 0 16px;
+    display: block;
+    margin-right: -3px;
+    margin-left: 1px;
+    text-decoration: none;
+    transition: all 0.2s ease-in-out;
+}
+
+#primary-menu ul li > a:hover {
+    box-shadow: 0 -4px 0 #0051b1 inset;
+    color: #333333;
+}
+
+#header.sticky-header:not(.static-sticky), #header.sticky-header:not(.static-sticky), #header.sticky-header:not(.static-sticky) #header-wrap, #header.sticky-header:not(.static-sticky):not(.sticky-style-2):not(.sticky-style-3) #logo img {
+  height: 70px;
+}
+
+#header.sticky-header:not(.static-sticky) #primary-menu > ul > li > a {
+    line-height: 44px;
+    padding-top: 0px;
+    padding-bottom: 2px;
+}
+
+.featured-overlay {
+    position: absolute;
+    width: 76%;
+    height: 68%;
+    top: 10%; 
+    left: 12%;
+    border-radius: 25px;
+}
+
+.button.button-border.button-light {
+    background-color: rgba(0, 81, 177, 1);
+    border-color: transparent;
+    color: #fff;
+}
+
+.button.button-border.button-light:hover {
+    background-color: rgba(0, 81, 177, 0.7);
+    color: #fff;
+}
 
 
 
@@ -22,36 +81,6 @@
     background: none;
 }
 
-.navbar-default {
-    height: 90px;
-    background-image: none;
-    background-color: #fff;
-}
-
-#navbar ul {
-    padding: 0px;
-    margin-top: 11px;
-    float: right;
-}
-#navbar ul li {
-    display: inline-block;
-    list-style: none;
-    font-size: 13px;
-}
-
-#navbar ul li a {
-    color: #333333;
-    line-height: 64px;
-    font-size: 16px;
-    font-family: 'Oswald', Arial;
-    text-transform: uppercase;
-    padding: 0 16px;
-    display: block;
-    margin-right: -3px;
-    margin-left: 1px;
-    text-decoration: none;
-    transition: all 0.2s ease-in-out;
-}
 
 .navbar-brand {
   padding-top: 2px;

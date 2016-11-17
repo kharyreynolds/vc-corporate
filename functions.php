@@ -100,10 +100,10 @@ function wpt_register_css() {
     
 
     // Theme Style Registrations
-    wp_register_style( 'custom-style', get_bloginfo( 'template_directory' ) . '/includes/css/custom-style.css' );
+    wp_register_style( 'master-style', get_bloginfo( 'template_directory' ) . '/includes/css/master-style.css' );
     wp_register_style( 'dark.css', get_bloginfo( 'template_directory' ) . '/includes/css/dark.css' );
-    wp_register_style( 'master-styles', get_bloginfo( 'template_directory' ) . '/includes/css/master-style.css', array( 'rss-settings', 'rss-layers', 'rss-navigation', 'custom-style', 'dark.css' ) );
-    wp_enqueue_style( 'master-styles' );
+    wp_register_style( 'custom-style', get_bloginfo( 'template_directory' ) . '/includes/css/custom-style.css', array( 'rss-settings', 'rss-layers', 'rss-navigation', 'master-style', 'dark.css' ) );
+    wp_enqueue_style( 'custom-style' );
 }
 
 
