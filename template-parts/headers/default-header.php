@@ -28,8 +28,8 @@ $params = wp_parse_args( $extra_params, $default_params );
                 <!-- Logo
                 ============================================= -->
                 <div id="logo">
-                    <a href="index.html" class="standard-logo" data-dark-logo="<?php bloginfo('template_directory'); ?>/includes/images/logo-dark.png"><img src="<?php $logo = _gop('logo'); echo $logo['url'];  ?>" /></a>
-                    <a href="index.html" class="retina-logo" data-dark-logo="<?php bloginfo('template_directory'); ?>/includes/images/logo-dark@2x.png"><img src="<?php bloginfo('template_directory'); ?>/includes/images/logo@2x.png" alt="Canvas Logo"></a>
+                    <a href="<?php echo get_site_url(); ?>" class="standard-logo"><img src="<?php $logo = _gop('logo'); echo $logo['url'];  ?>" /></a>
+                    <a href="<?php echo get_site_url(); ?>" class="retina-logo"><img src="<?php $logo = _gop('logo'); echo $logo['url'];  ?>" /></a>
                 </div><!-- #logo end -->
 
                 <?php wp_nav_menu( $menu_args ); ?>

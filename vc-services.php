@@ -12,7 +12,7 @@
 			<h1>Services</h1>
 			<span>Custom WordPress Solutions for Growth Focused Companies</span>
 			<ol class="breadcrumb">
-				<li><a href="#">Home</a></li>
+				<li><a href="<?php echo get_site_url(); ?>">Home</a></li>
 				<li class="active">Services</li>
 			</ol>
 		</div>

@@ -12,7 +12,7 @@
 			<h1>Contact Us</h1>
 			<span>Get in Touch with Us</span>
 			<ol class="breadcrumb">
-				<li><a href="#">Home</a></li>
+				<li><a href="<?php echo get_site_url(); ?>">Home</a></li>
 				<li class="active">Contact Us</li>
 			</ol>
 		</div>

@@ -13,7 +13,7 @@
 			<h1>Portfolio</h1>
 			<span>Generating Measurable Results for Your Company</span>
 			<ol class="breadcrumb">
-				<li><a href="#">Home</a></li>
+				<li><a href="<?php echo get_site_url(); ?>">Home</a></li>
 				<li class="active">Portfolio</li>
 			</ol>
 		</div>
