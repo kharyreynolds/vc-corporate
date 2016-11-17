@@ -9,7 +9,7 @@
 	
 
 	<!-- WP Dev About Section -->
-	<section class="content-wrap bottommargin">
+	<section class="content-wrap nopadding bottommargin">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-6">
@@ -40,13 +40,13 @@
 	</section>
 
 	<!-- Parallax Section - Stats Counter -->
-	<section class="content-wrap">
-		<div class="promo parallax white-text promo-full " style="background-image: url('<?php bloginfo('template_directory'); ?>/includes/images/parallax/code-screen.jpg'); background-size:cover;" data-stellar-background-ratio="0.3">
+	<section class="content-wrap nopadding">
+		<div class="promo parallax promo-full" style="background-image: url('<?php bloginfo('template_directory'); ?>/includes/images/parallax/code-screen.jpg'); background-size:cover;" data-stellar-background-ratio="0.3">
 			
 			<div class="parallax-overlay grid-overlay"></div>
 			<div class="container clearfix">
 				<div class="row center">
-					<div class="col-md-12 heading-block white-border topmargin-sm nobottommargin">
+					<div class="col-md-12 heading-block white-border white-color topmargin-sm nobottommargin">
 						<h2>Custom WordPress Solutions Done Right!</h2>
 						<span>Successful Projects are Nothing New for Us...</span>
 					</div>
@@ -79,7 +79,7 @@
 	</section>
 
 	<!-- Services Section -->
-	<section class="content-wrap topmargin bottommargin-lg">
+	<section class="content-wrap">
 		<div class="container clearfix">
 			<div class="row">
 				<div class="heading-block center">
@@ -114,7 +114,7 @@
 				</div>
 
 				<div class="col-md-4 hidden-sm topmargin center">
-					<img src="<?php bloginfo('template_directory'); ?>/includes/images/services/imac-2.png">
+					<img src="<?php bloginfo('template_directory'); ?>/includes/images/imac.png">
 				</div>
 
 				<div class="col-md-4 col-sm-6 bottommargin">
@@ -150,7 +150,7 @@
 	</section>
 
 	<!-- Parallax Promo Section -->
-	<section class="content-wrap">
+	<section class="content-wrap nopadding">
 		<div class="section parallax dark nomargin noborder" style="padding: 100px 0; background-image: url('<?php bloginfo('template_directory'); ?>/includes/images/parallax/coder-desk.jpg');" data-stellar-background-ratio="0.4">
 			<div class="parallax-overlay black-overlay"></div>
 			<div class="container center clearfix">
