@@ -139,7 +139,7 @@ dl, dt, dd, ol, ul, li {
 
 body {
 	line-height: 1.5;
-	color: #555;
+	color: #333;
 	font-family: 'Lato', sans-serif;
 }
 
@@ -168,7 +168,6 @@ h3,
 h4,
 h5,
 h6 {
-	color: #444;
 	font-weight: 600;
 	line-height: 1.5;
 	margin: 0 0 30px 0;
@@ -11267,6 +11266,17 @@ label.error { display: none !important; }
 
 .heading-block { margin-bottom: 25px; }
 
+.header-border {
+    border-top: 2px solid #444;
+    border-bottom: 2px solid #444;
+}
+
+.section-header {
+    display: block;
+    padding: 30px 0px;
+}
+
+.section-header h2,
 .heading-block h1,
 .heading-block h2,
 .heading-block h3,
@@ -11275,7 +11285,7 @@ label.error { display: none !important; }
 	font-weight: 700;
 	text-transform: uppercase;
 	letter-spacing: 1px;
-	color: #333;
+	/*color: #333;*/
 }
 
 .emphasis-title h1,
@@ -11296,15 +11306,17 @@ label.error { display: none !important; }
 	font-weight: 700;
 }
 
+.section-header > span:not(.before-heading),
 .heading-block > span:not(.before-heading) {
 	display: block;
 	margin-top: 10px;
 	font-weight: 300;
-	color: #777;
+	color: #555;
 }
 
 .heading-block .before-heading { margin-bottom: 7px; }
 
+.section-header.center > span,
 .heading-block.center > span,
 .heading-block.title-center > span,
 .center .heading-block > span {
@@ -11315,6 +11327,7 @@ label.error { display: none !important; }
 
 .heading-block h1 + span { font-size: 24px; }
 
+.section-header h2 + span,
 .heading-block h2 + span { font-size: 22px; }
 
 .heading-block h3 + span,
