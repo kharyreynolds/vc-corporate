@@ -172,7 +172,7 @@ h6 {
 	font-weight: 600;
 	line-height: 1.5;
 	margin: 0 0 30px 0;
-	f/*ont-family: 'Raleway', sans-serif;*/
+	font-family: 'Raleway', sans-serif;
 }
 
 h5,
@@ -417,10 +417,6 @@ span.middot {
 .nobg { background: none !important; }
 
 .nobgcolor { background-color: transparent !important; }
-
-.white-color {
-    color: #FFF !important;
-}
 
 .t300 { font-weight: 300 !important; }
 
@@ -3647,14 +3643,13 @@ body.stretched .container-fullwidth .breadcrumb { right: 60px !important; }
 #content {
 	position: relative;
 	overflow: hidden;
-	background-color: #FFF;
 }
 
 #content p { line-height: 1.8; }
 
 .content-wrap {
 	position: relative;
-	padding: 80px 0;
+	/*padding: 80px 0;*/
 }
 
 #content .container { position: relative; }
@@ -11275,9 +11270,7 @@ label.error { display: none !important; }
 .heading-block h1,
 .heading-block h2,
 .heading-block h3,
-.heading-block h4,
-.emphasis-title h1,
-.emphasis-title h2 {
+.heading-block h4 {
 	margin-bottom: 0;
 	font-weight: 700;
 	text-transform: uppercase;
@@ -11998,7 +11991,7 @@ button.toast-close-button {
 .device-md.sticky-footer:not(.stretched) #footer {
 	margin-left: -500px;
 	width: 1000px;
-}
+}	
 
 .footer-widgets-wrap {
     position: relative;

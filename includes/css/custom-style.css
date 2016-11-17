@@ -82,6 +82,24 @@
     margin: 50px 25px 25px 25px;
 }
 
+.white-color {
+    color: #FFF !important;
+}
+
+.section.parallax .heading-block:after {
+    content: '';
+    display: block;
+    margin-top: 20px;
+    width: 40px;
+    border-top: 2px solid #FFF;
+}
+
+.emphasis-title h2 {
+  font-weight: 600;
+  line-height: 1.5;
+}
+
+
 .footer-logo {
     width: 225px;
     height: 17px;

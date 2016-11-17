@@ -40,46 +40,47 @@
 	</section>
 
 	<!-- Parallax Section - Stats Counter -->
-	<section class="content-wrap nopadding">
-		<div class="promo parallax promo-full" style="background-image: url('<?php bloginfo('template_directory'); ?>/includes/images/parallax/code-screen.jpg'); background-size:cover;" data-stellar-background-ratio="0.3">
-			
-			<div class="parallax-overlay grid-overlay"></div>
+	<section class="content-wrap bottommargin">
+		<div class="section parallax" style="background-image: url('<?php bloginfo('template_directory'); ?>/includes/images/parallax/code-screen.jpg'); background-size:cover; color: #FFF;" data-stellar-background-ratio="0.3">
+
+		<div class="parallax-overlay grid-overlay"></div>
+
 			<div class="container clearfix">
 				<div class="row center">
-					<div class="col-md-12 heading-block white-border white-color topmargin-sm nobottommargin">
-						<h2>Custom WordPress Solutions Done Right!</h2>
-						<span>Successful Projects are Nothing New for Us...</span>
+					<div class="col-md-12 heading-block white-border topmargin-sm nobottommargin">
+						<h2 class="white-color">Custom WordPress Solutions Done Right!</h2>
+						<span class="white-color">Successful Projects are Nothing New for Us...</span>
 					</div>
 				</div>
-
 				<div class="row center">
 					<div class="col-md-3" style="padding-top: 55px !important;">
 						<i class="i-plain i-xlarge divcenter nobottommargin icon-users2" style="color: #dadada;"></i>
 						<div class="counter counter-large counter-wlined" style="color: #1abc9c;"><span data-from="100" data-to="216" data-refresh-interval="50" data-speed="2000"></span></div>
-						<h5>Clients Served</h5>
+						<h5 class="white-color">Clients Served</h5>
 					</div>
 					<div class="col-md-3" style="padding-top: 55px !important;">
 						<i class="i-plain i-xlarge divcenter nobottommargin icon-briefcase" style="color: #dadada;"></i>
 						<div class="counter counter-large counter-wlined" style="color: #3498db;"><span data-from="325" data-to="467" data-refresh-interval="50" data-speed="2250"></span></div>
-						<h5>No. of Projects</h5>
+						<h5 class="white-color">No. of Projects</h5>
 					</div>
 					<div class="col-md-3" style="padding-top: 55px !important;">
 						<i class="i-plain i-xlarge divcenter nobottommargin icon-code" style="color: #dadada;"></i>
 						<div class="counter counter-large counter-wlined" style="color: #e74c3c;"><span data-from="55000" data-to="71703" data-refresh-interval="50" data-speed="2500"></span></div>
-						<h5>Lines of Code</h5>
+						<h5 class="white-color">Lines of Code</h5>
 					</div>
 					<div class="col-md-3" style="padding-top: 55px !important;">
 						<i class="i-plain i-xlarge divcenter nobottommargin icon-coffee" style="color: #dadada;"></i>
 						<div class="counter counter-large counter-wlined" style="color: #9b59b6;"><span data-from="300" data-to="576" data-refresh-interval="30" data-speed="2750"></span></div>
-						<h5>Cups of Coffee</h5>
+						<h5 class="white-color">Cups of Coffee</h5>
 					</div>
 				</div>
 			</div>
 		</div>
 	</section>
 
+
 	<!-- Services Section -->
-	<section class="content-wrap">
+	<section class="content-wrap bottommargin">
 		<div class="container clearfix">
 			<div class="row">
 				<div class="heading-block center">
