@@ -29,7 +29,7 @@
 
 <!-- Header
 ============================================= -->
-<header id="header" class="washcycle-header">
+<header id="header" class="washcycle-header no-sticky">
     <div id="header-wrap">
         <div class="container clearfix">
             <div id="primary-menu-trigger"><i class="icon-reorder"></i></div>

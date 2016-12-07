@@ -5,7 +5,7 @@
 	<?php vc_render_theme_header( 'portfolio-header-washcycle', array( 'class' =>  '' ) ); ?>
 
 	<!-- Slide Revolution Featured Banner -->
-  	<?php vc_render_theme_slider( 'video-slider', array( 'class' =>  '' ) ); ?>
+  	<?php vc_render_theme_slider( 'portfolio-hero-washcycle', array( 'class' =>  '' ) ); ?>
 
 	
 	
